@@ -87,7 +87,6 @@
 				"description" : "Time series line chart.",
 				"external_scripts" : [
 						"http://code.highcharts.com/highcharts.js",
-                                                "plugins/thirdparty/plugin_highcharts_theme.js",
 						"http://code.highcharts.com/modules/exporting.js"
                                             ],
 				"fill_size" : true,
