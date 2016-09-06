@@ -12,9 +12,9 @@ Github repository: <a href="https://github.com/onlinux/freeboard-dynamic-highcha
 <a href="dynamic-highcharts-plugin-2.png"><img class="alignleft size-full wp-image-483" src="dynamic-highcharts-plugin-2.png" alt="dynamic-highcharts-plugin-2" width="908" height="737" /></a>
 
 <h1>INSTALLATION</h1>
-<p style="color: #333333;">Copy the files (plugin_hicharts.js and plugin_hicharts_theme.js from <a href="https://github.com/onlinux/freeboard-dynamic-highcharts-plugin" target="_blank">https://github.com/onlinux/freeboard-dynamic-highcharts-plugin</a>) to your freeboard installation, for example:</p>
+<p style="color: #333333;">Copy the file (plugin_highcharts.js from <a href="https://github.com/onlinux/freeboard-dynamic-highcharts-plugin" target="_blank">https://github.com/onlinux/freeboard-dynamic-highcharts-plugin</a>) to your freeboard installation, for example:</p>
 
-<pre style="color: #333333;"><code>$ cp ./plugin_highcharts*.js /freeboard/plugins/thirdparty
+<pre style="color: #333333;"><code>$ cp ./plugin_highcharts.js /freeboard/plugins/thirdparty
 </code></pre>
 <p style="color: #333333;">edit the <a style="color: #4078c0;" href="https://github.com/Freeboard/freeboard/blob/master/index.html#L14" target="_blank">freeboard index.html file</a> and add a link to the plugin near the end of the head.js script loader, like:</p>
 
