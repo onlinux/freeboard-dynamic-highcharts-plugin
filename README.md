@@ -10,7 +10,7 @@ Github repository: <a href="https://github.com/onlinux/freeboard-dynamic-highcha
 
 
 <a href="dynamic-highcharts-plugin-2.png"><img class="alignleft size-full wp-image-483" src="dynamic-highcharts-plugin-2.png" alt="dynamic-highcharts-plugin-2" width="908" height="737" /></a>
-
+<h2>See it in action @ <a href="https://goo.gl/hbAXXU" target="_blank">https://goo.gl/hbAXXU</a></h2>
 <h1>INSTALLATION</h1>
 <p style="color: #333333;">Copy the file (plugin_highcharts.js from <a href="https://github.com/onlinux/freeboard-dynamic-highcharts-plugin" target="_blank">https://github.com/onlinux/freeboard-dynamic-highcharts-plugin</a>) to your freeboard installation, for example:</p>
 
